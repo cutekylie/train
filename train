@@ -1,0 +1,4 @@
+while true; do
+    sl 
+    sleep 0
+done
