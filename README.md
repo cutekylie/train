@@ -1,4 +1,19 @@
 # Follow this to install
+Install the only one dependency: sl
+
+### Follow this for your distro
+Arch
+```bash
+sudo pacman -S sl
+```
+
+Ubuntu
+```bash
+sudo apt install sl
+```
+
+For other distro don't worry, I guess the packages is always named as "sl"
+
 Change directory and go into train:
 ```bash
 cd train
